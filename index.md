@@ -11,7 +11,7 @@ table, tr, td {
 <table style="margin-left: 1; margin-right: 1; ">
 	<tr>
 		<td width=60%>
-			![](./Images/Images 1.0.png)
+			<img src="./Images/Images 1.0.jpg" width="440" height="350" />
 		</td>
 		<td width=40%>
 			<text style="font-size: 22px;">全能型 AI 助理 </text>
@@ -32,7 +32,7 @@ table, tr, td {
 			<li style="font-size: 18px;">支持 PNG、JPEG、TIFF、PSD 等多种图片格式 </li>
 		</td>
 		<td width=40%>
-			<img src="./Images/Images 1.1.png" width="500" height="350" />
+			<img src="./Images/Images 1.1.jpg" width="500" height="300" />
 		</td>
 	</tr>
 </table>
