@@ -23,7 +23,7 @@ table, td, th {
 			<a href="http://www.innovator1229.com/Privacy_Policy.html">Privacy Policy</a>
 		</td>
 		<td width=20%>
-			<a href="http://www.innovator1229.com/Terms_of_Service.html">Terms Of Use</a>
+			<a href="http://www.innovator1229.com/Terms_of_Service.html">Terms Of Service</a>
 		</td>
 		<td width=80%>
 		</td>
