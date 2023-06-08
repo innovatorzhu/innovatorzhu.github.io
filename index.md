@@ -5,7 +5,7 @@ table, tr, td {
 </style>
 
 
-###[首页](http://innovatorzhu.github.io/index.html)&#160;&#160;&#160;&#160;&#160;		[产品](http://innovatorzhu.github.io/products.html) &#160;&#160;&#160;&#160;&#160;[关于我们](http://innovatorzhu.github.io/about.html)
+###[首页](http://www.innovator1229.com/index.html)&#160;&#160;&#160;&#160;&#160;		[产品](http://www.innovator1229.com/products.html) &#160;&#160;&#160;&#160;&#160;[关于我们](http://www.innovator1229.com/about.html)
 
 <p />
 <table style="margin-left: 1; margin-right: 1; ">
@@ -41,10 +41,10 @@ table, tr, td {
 <table style="margin-left: 1; margin-right: 1; ">
 	<tr>
 		<td width=20%>
-			<a href="http://innovatorzhu.github.io/Privacy Policy.html">Privacy Policy</a>
+			<a href="http://www.innovator1229.com/Privacy_Policy.html">Privacy Policy</a>
 		</td>
 		<td width=20%>
-			<a href="http://innovatorzhu.github.io/Terms OF Use.html">Terms Of Use</a>
+			<a href="http://www.innovator1229.com/Terms_of_Service.html">Terms Of Use</a>
 		</td>
 		<td width=80%>
 		</td>
